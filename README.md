@@ -6,3 +6,9 @@ Come creare una applet su Linux usando le librerie QT
 qmake
 make
 ```
+
+## avvia
+```
+chmod +x applet
+./applet
+```

@@ -1,5 +1,7 @@
 # extra
 Makefile
+applet
+.qmake.stash
 
 # Prerequisites
 *.d
